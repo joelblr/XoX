@@ -23,11 +23,12 @@ Here are some screenshots from the game:
 
 ### Winning Scenario:
 
-![Winner Screenshot](./mnt/data/XOX_winner_screenshot.png)
+![Winner Screenshot](https://github.com/user-attachments/assets/711a4b05-749f-4154-ae3b-2e8c9566a266)
+
 
 ### Game in Progress:
 
-![Game Progress Screenshot](./mnt/data/image.png)
+![Game Progress Screenshot](https://github.com/user-attachments/assets/34d00641-8518-439e-83b1-e482b1fce14c)
 
 ## Planned Features
 
